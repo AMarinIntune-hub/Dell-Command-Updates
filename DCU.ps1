@@ -5,7 +5,6 @@
     Installs the latest version of Dell Command Update and applies all Dell updates silently.
   .LINK
     https://www.dell.com/support/product-details/en-us/product/command-update/resources/manuals
-    https://github.com/wise-io/scripts/blob/main/scripts/DellCommandUpdate.ps1
   .NOTES
     Author: Anthony Marinelli
 #>
