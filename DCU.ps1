@@ -7,7 +7,7 @@
     https://www.dell.com/support/product-details/en-us/product/command-update/resources/manuals
     https://github.com/wise-io/scripts/blob/main/scripts/DellCommandUpdate.ps1
   .NOTES
-    Author: Michigan Virtual
+    Author: Anthony Marinelli
 #>
 
 [CmdletBinding()]
